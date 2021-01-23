@@ -39,7 +39,7 @@ font-size: 2rem;
     }
 
 `;
-export const image = styled.img`
+export const Image = styled.img`
 max-width: 100%;
 height: auto;
 `;
