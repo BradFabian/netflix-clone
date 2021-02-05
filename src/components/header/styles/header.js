@@ -11,12 +11,12 @@ display: flex;
 `;
 export const Container = styled.div`
 display: flex;
-    margin: 0 56px;
+    margin: 0 3.5rem;
     height: 64px;
     padding: 18px 0;
     justify-content: space-around;
     align-items: center;
-    
+    max-width: 300rem;
     a {
         display: flex;
     }
