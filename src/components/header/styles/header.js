@@ -14,7 +14,7 @@ display: flex;
     margin: 0 56px;
     height: 64px;
     padding: 18px 0;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     
     a {

@@ -2,9 +2,11 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 display: flex;
+
     justify-content: center;
     height: 100%;
-    margin-top: 20px;
+    margin: auto;
+    margin-top: 1rem;
     flex-wrap: wrap;
     
     @media (max-width: 1000px) {
